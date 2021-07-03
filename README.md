@@ -15,7 +15,7 @@ For different plants inside the **TATA STEEL** company, we have different plant 
 
 > **You can download the working video [here]( https://drive.google.com/file/d/1xhptht9vZm3W0ccQUUc8aFYebWO_oJyY/view?usp=sharing).**
 
-> **You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).**
+> **You can check the screenshots of User Interface [here](https://github.com/Sranu2109/Capacitymatrix/tree/master/screenshots).**
 
 ## Core Features
 
