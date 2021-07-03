@@ -70,13 +70,13 @@ The source code of this project is written in **C#**. So, you'll require **Windo
 
 ## How to run?
 
-1. Download this repo and extract it in your **www/htdocs** directory. 
-2. Import the [database] from **db** folder. 
-3. Configure `dbcon.php` 
-4. Run **`localhost/{YOUR FOLDER NAME}`**
+1. Download this repo and extract **[WebProject.zip](https://github.com/Sranu2109/Capacitymatrix/blob/master/WebProject.zip)** file in your system. 
+2. Import the [database] from **WebProject.zip** folder. 
+3. Make **Sqlconnection** with the cs files. 
+4. Run **`Capacitymatrix.sln`**
 
 ## Thanks!
 
 I am extremely grateful for the practical hands-on experience along with the theoretical knowledge by the mentors in the web development summer internship at [tatasteel](https://www.tatasteel.com/) though being in the onset of global pandemic time.
 
-<a href="https://www.linkedin.com/in/ranu-singh-792ba91b4"><img src="images5/linkedin.png" width="32px" height="32px"></a> <a href="https://github.com/Sranu2109"><img src="images5/github.png" width="32px" height="32px"></a> <a href=""><img src="images5/twitter.png" width="32px" height="32px"></a>
+<a href="https://www.linkedin.com/in/ranu-singh-792ba91b4"><img href="images5/linkedin.png" width="32px" height="32px"></a> <a href="https://github.com/Sranu2109"><img href="images5/github.png" width="32px" height="32px"></a> <a href=""><img href="images5/twitter.png" width="32px" height="32px"></a>
