@@ -79,4 +79,6 @@ The source code of this project is written in **C#**. So, you'll require **Windo
 
 I am extremely grateful for the practical hands-on experience along with the theoretical knowledge by the mentors in the web development summer internship at [tatasteel](https://www.tatasteel.com/) though being in the onset of global pandemic time.
 
-<a href="https://www.linkedin.com/in/ranu-singh-792ba91b4"><img href="images5/linkedin.png" width="32px" height="32px"></a> <a href="https://github.com/Sranu2109"><img href="images5/github.png" width="32px" height="32px"></a> <a href=""><img href="images5/twitter.png" width="32px" height="32px"></a>
+<a href="https://www.linkedin.com/in/ranu-singh-792ba91b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranu-singh-792ba91b4/" height="30" width="40" /></a>
+<a href="https://instagram.com/_hello.hellcat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hello.hellcat_" height="30" width="40" /></a>
+<a href="https://github.com/Sranu2109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sranu2109" height="30" width="40" /></a>
